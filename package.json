@@ -1,11 +1,8 @@
-{
-  "name": "react-dynamic-components-lab",
-  "version": "0.1.0",
-  "private": true,
-  "babel": {
+"babel": {
     "presets": [
       "airbnb",
       "env",
+      "env"
       "stage-0",
       "react"
     ]
@@ -36,4 +33,14 @@
     "mocha": "^5.2.0",
     "sinon": "^6.3.5"
   }
+
+
+
+},
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
